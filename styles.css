@@ -1,0 +1,12 @@
+:root {
+    --white: hsl(0, 0%, 100%);
+    --lightgray: hsl(212, 45%, 89%);
+    --grayishblue: hsl(220, 15%, 55%);
+    --darkblue: hsl(218, 44%, 22%);
+
+    --ff-main: 'Outfit', sans-serif;
+
+    --fw-regular: 400;
+    --fw-bold: 700;
+}
+
