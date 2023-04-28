@@ -14,7 +14,7 @@ Users should be able to:
 
 View the design layout for the QR code component. The challenge is to build out a QR code component and get it looking as close to the design as possible.
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
